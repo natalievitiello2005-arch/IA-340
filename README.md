@@ -1,6 +1,6 @@
 # IA 340 Python codes 
 
-THis is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=258336&print) project.
+This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=258336&print) project.
 
 ## Course Description 
 
